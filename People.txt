@@ -1,0 +1,17 @@
+P: person
+SC: superclient (high performance)
+
+
+P: 94.188.140.129 Done
+P: 220.79.238.195 N/A
+P: 238.240.187.84 Done
+P: 71.34.98.187 Done
+P: 220.79.238.195 N/A
+P: 250.18.183.23 N/A
+P: 143.251.109.117
+P: 207.199.12.154 (active)
+
+
+SC: 223.60.157.202 Done (active)
+SC: 150.217.189.249 (cant pen with 5.9)
+SC: 164.1.50.240

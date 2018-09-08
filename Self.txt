@@ -1,0 +1,5 @@
+BTC: own bitcoin adress
+x-BNK: own bank account on bank x
+
+BTC: 1tzE3WpN97Aiz5aS5E4pV6hXBGtEf679zH : NCDdqNl15U6gNcVRCRYTOzzidPokYY2MBF01tl3zgaP3mLVZCTSqssIGh71g533G
+1ST-BNK: 917262696 : FcHoPl : 33.53.182.46

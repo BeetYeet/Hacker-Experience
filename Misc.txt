@@ -1,0 +1,8 @@
+WHOIS: whois server
+NXT: unsolved puzzle
+
+
+WHOIS1: 1.2.3.4
+WHOIS2: 120.32.64.218
+NXT: 117.246.115.102
+NXT: 168.192.95.49
