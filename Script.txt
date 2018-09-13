@@ -1,0 +1,10 @@
+if(target.freehd >= MB(100)){
+	
+	upload("*.vddos", "install")
+	seconds_limit(600)
+}
+if(target.freehd >= MB(900)){
+	
+	upload("REVOK DDOS.vddos", "install")
+	seconds_limit(1800)
+}

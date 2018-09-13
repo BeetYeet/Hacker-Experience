@@ -1,13 +1,17 @@
 BTC: own bitcoin adress
 x-BNK: own bank account on bank x
 
-BeetYeet: 168.15.180.139
+BeetYeet: 60.194.34.13
 BeetYeet : SimpleCrypto
 BTC: 1tzE3WpN97Aiz5aS5E4pV6hXBGtEf679zH : NCDdqNl15U6gNcVRCRYTOzzidPokYY2MBF01tl3zgaP3mLVZCTSqssIGh71g533G
 1ST-BNK: 917262696 : FcHoPl : 33.53.182.46
 ULT-BNK: 985119690 : PtzFb3 : 2.87.177.158
 
-YeetusFeetus: 168.190.141.198
+Yeetinator9000: 108.37.157.160
+Yeetinator9000 : itwillonlytakeaminute
+BTC: 1I19NgjtPR2ZV8g2n8bYxA9HQXqbUX4hG5 : 
+
+YeetusFeetus: 165.196.46.229
 YeetusFeetus : 123456
 BTC: 1yRsGuwTXKZ7VBqYnuLCbLeArIjWPkTdTL : FzgcsdWslS4LQrfB3qmi1O0kLQEF3xrJ7HVAUS2gK71ByhdCIAUJpU3aKHPOfgxm
 1ST-BNK: 486391805 : fvknNa : 33.53.182.46
